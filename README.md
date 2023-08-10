@@ -1,3 +1,7 @@
 # Eashan Chawla's Portfolio
 
-Generative AI Generative AI Generative AI Generative AI Generative AI Generative AI Generative AI Generative AI Generative AI
+Some of my interests/skills include:
+- Deep Learning for Audio (ASR, Diairzation, Segmentation)
+- Computer Vision (Object Detection, Robotics Operating System)
+- Distributed Computing (Inference on GPUs)
+- Generative AI (the BIG BUZZ-WORD)
