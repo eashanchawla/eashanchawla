@@ -55,7 +55,14 @@ An accomplished **Machine Learning Engineer** with over 4 years of experience in
 ## **Professional Experience**
 
 ### ArcBest Technologies, Fort Smith, AR  
-**Machine Learning Engineer II** (April 2023 – Present)
+**Machine Learning Engineer III** (June 2024 – Present)
+- Promoted to ML Engineer III in June 2024.
+- Built scalable AzureML speech-to-text pipelines, reducing costs by 90%, handling 2.8 million transcriptions.
+- Developed reusable email and call analytics pipelines using **BERTopic** and **LLMs**, performing 600k enrichments.
+- Collaborated on setting XOps standards and deploying secure DL/ML applications in **AzureML**.
+- Applied **Generative AI** and deep learning for ad-hoc analyses, including churn analytics and employee survey analysis.
+
+**Machine Learning Engineer II** (April 2023 – June 2024)
 - Built scalable AzureML speech-to-text pipelines, reducing costs by 90%, handling 2.8 million transcriptions.
 - Developed reusable email and call analytics pipelines using **BERTopic** and **LLMs**, performing 600k enrichments.
 - Collaborated on setting XOps standards and deploying secure DL/ML applications in **AzureML**.
