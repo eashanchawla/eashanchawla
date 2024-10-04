@@ -9,4 +9,6 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://linke
 - Computer Vision (Object Detection, Robotics Operating System)
 - Distributed Computing (Inference on GPUs)
 - Generative AI
-- Indian History, Philosophy, Polity
+- Indian History
+- Philosophy
+- Polity
