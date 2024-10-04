@@ -48,7 +48,7 @@
 
 ## **Profile Overview**
 
-An accomplished **Machine Learning Engineer** with over 4 years of experience in designing and implementing high-performance cognitive solutions. Proven success in pioneering deep learning projects and setting **MLOps** and **security** benchmarks. Specialized in **Vision, Voice, Text**, and **Generative AI**, with a track record of delivering impactful results across various domains. Skilled in collaborating with cross-functional teams to meet and exceed customer expectations.
+An accomplished **Machine Learning Engineer** with almost 5 years of experience in designing and implementing high-performance cognitive solutions. Proven success in pioneering deep learning projects and setting **MLOps** and **security** benchmarks. Specialized in **Vision, Voice, Text**, and **Generative AI**, with a track record of delivering impactful results across various domains. Skilled in collaborating with cross-functional teams to meet and exceed customer expectations.
 
 ---
 
