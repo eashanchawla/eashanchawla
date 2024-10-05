@@ -151,3 +151,95 @@ a:hover {
 .theme-switch input[type="checkbox"] {
     margin-right: 10px;
 }
+.skill-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.skill-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: var(--section-bg);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px var(--box-shadow);
+}
+
+.skill-item i {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: var(--accent-color);
+}
+
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: var(--accent-color);
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.timeline-item {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+}
+
+.timeline-item:nth-child(even) {
+    left: 50%;
+}
+
+.timeline-item::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: var(--accent-color);
+    border: 4px solid var(--accent-color);
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.timeline-item:nth-child(even)::after {
+    left: -16px;
+}
+
+.timeline-content {
+    padding: 20px 30px;
+    background-color: var(--section-bg);
+    position: relative;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px var(--box-shadow);
+}
+
+.timeline-content h3 {
+    margin-top: 0;
+}
+
+.timeline-content h4 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: var(--accent-color);
+}
+
+.timeline-content .date {
+    display: inline-block;
+    margin-bottom: 10px;
+    color: var(--accent-color);
+}
