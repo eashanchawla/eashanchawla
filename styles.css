@@ -10,6 +10,14 @@
     --accent-color: #ff6f61;
 }
 
+.dark-mode {
+    --background-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --link-color: #66b2ff;
+    --header-footer-bg: #2a2a2a;
+    --section-bg: #2a2a2a;
+}
+
 body {
     font-family: var(--primary-font);
     margin: 0;
