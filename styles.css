@@ -45,7 +45,7 @@ nav a:hover {
     color: var(--accent-color);
 }
 
-header, nav {
+header {
     background-color: var(--header-footer-bg);
     color: var(--text-color);
     text-align: center;
@@ -66,12 +66,41 @@ header p {
     font-size: 1.2em;
 }
 
-section {
+main {
     padding: 40px;
     margin: 30px;
+}
+
+section {
     background-color: var(--section-bg);
     border-radius: 12px;
     box-shadow: 0 4px 8px var(--box-shadow);
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+section h2 {
+    margin-top: 0;
+    font-size: 2em;
+    font-weight: 700;
+    font-family: var(--heading-font);
+    color: var(--accent-color);
+}
+
+section h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    font-weight: 600;
+    font-family: var(--heading-font);
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section li {
+    margin-bottom: 20px;
 }
 
 footer {
