@@ -1,9 +1,9 @@
 :root {
-    --background-color: #f4f4f9;
-    --text-color: #333;
+    --background-color: #2c2c2c;
+    --text-color: #e0e0e0;
     --link-color: #007bff;
-    --header-footer-bg: #ffffff;
-    --section-bg: #ffffff;
+    --header-footer-bg: #3a3a3a;
+    --section-bg: #3a3a3a;
     --box-shadow: rgba(0, 0, 0, 0.1);
     --primary-font: 'Poppins', sans-serif;
     --heading-font: 'Montserrat', sans-serif;
