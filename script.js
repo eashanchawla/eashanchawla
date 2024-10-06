@@ -19,4 +19,11 @@ document.addEventListener('DOMContentLoaded', function() {
         document.body.classList.add('dark-mode');
         themeSwitch.checked = true;
     }
+
+    // Check for saved user preference
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        document.body.classList.add('dark-mode');
+        themeSwitch.checked = true;
+    }
 });
